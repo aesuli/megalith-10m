@@ -1,0 +1,5 @@
+huggingface_hub 
+pyarrow 
+pandas 
+requests 
+tqdm
